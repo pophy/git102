@@ -2,3 +2,7 @@ a
 b
 c
 conflict - f3
+d
+e
+f
+8
